@@ -15,4 +15,5 @@ Este repositório contém o notebook desenvolvido por nossa equipe durante o pro
 ## Estrutura do Repositório
 
 ├── README.md                 # Informações gerais sobre o projeto
+
 └── analise_dados_colab.ipynb # Notebook Jupyter com todo o processo de análise de dados
